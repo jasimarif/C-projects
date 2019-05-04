@@ -54,10 +54,7 @@ while(current!=NULL)
 int main()
 { 
 	linklist l1;
-	char *c,u;
-	char v;
-	u='v';
-	
+		
 	///l1.linklisted();
 	l1.addata(5);
 	l1.addata(10);
