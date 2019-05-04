@@ -54,8 +54,6 @@ while(current!=NULL)
 int main()
 { 
 	linklist l1;
-		
-	///l1.linklisted();
 	l1.addata(5);
 	l1.addata(10);
 	l1.display();
